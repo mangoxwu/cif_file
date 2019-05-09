@@ -1,0 +1,60 @@
+# generated using pymatgen
+data_LiCoO2
+_symmetry_space_group_name_H-M   Imma
+_cell_length_a   5.81485314
+_cell_length_b   5.78803339
+_cell_length_c   8.23817068
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   74
+_chemical_formula_structural   LiCoO2
+_chemical_formula_sum   'Li8 Co8 O16'
+_cell_volume   277.26851994
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-y+1/4, -x+1/4, -z+1/4'
+  3  'y+3/4, x+1/4, -z+1/4'
+  4  '-x+1/2, -y, z+1/2'
+  5  'x, -y, -z'
+  6  '-y+3/4, x+1/4, z+1/4'
+  7  '-x, y+1/2, -z'
+  8  'y+1/4, -x+1/4, z+1/4'
+  9  '-x, -y, -z'
+  10  'y+1/4, x+1/4, z+1/4'
+  11  '-y+3/4, -x+1/4, z+1/4'
+  12  'x, y+1/2, -z'
+  13  '-x, y, z'
+  14  'y+3/4, -x+1/4, -z+1/4'
+  15  'x, -y+1/2, z'
+  16  '-y+1/4, x+1/4, -z+1/4'
+  17  'x+1/2, y+1/2, z+1/2'
+  18  '-y+3/4, -x+3/4, -z+3/4'
+  19  'y+1/4, x+3/4, -z+3/4'
+  20  '-x, -y+1/2, z'
+  21  'x+1/2, -y+1/2, -z+1/2'
+  22  '-y+1/4, x+3/4, z+3/4'
+  23  '-x+1/2, y, -z+1/2'
+  24  'y+3/4, -x+3/4, z+3/4'
+  25  '-x+1/2, -y+1/2, -z+1/2'
+  26  'y+3/4, x+3/4, z+3/4'
+  27  '-y+1/4, -x+3/4, z+3/4'
+  28  'x+1/2, y, -z+1/2'
+  29  '-x+1/2, y+1/2, z+1/2'
+  30  'y+1/4, -x+3/4, -z+3/4'
+  31  'x+1/2, -y, z+1/2'
+  32  '-y+3/4, x+3/4, -z+3/4'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li1  8  0.000000  0.000000  0.000000  1
+  Co  Co2  8  0.000000  0.000000  0.500000  1
+  O  O3  16  0.000000  0.011828  0.737710  1

@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Li5(CoO2)8
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   2.89094574
+_cell_length_b   9.91239637
+_cell_length_c   10.98796043
+_cell_angle_alpha   66.34025363
+_cell_angle_beta   88.83105603
+_cell_angle_gamma   89.98215723
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li5(CoO2)8
+_chemical_formula_sum   'Li5 Co8 O16'
+_cell_volume   288.33576619
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li1  1  0.048270  0.203829  0.747494  1
+  Li  Li2  1  0.502284  0.485183  0.748644  1
+  Li  Li3  1  0.770457  0.829509  0.750281  1
+  Li  Li4  1  0.967193  0.775483  0.251611  1
+  Li  Li5  1  0.973022  0.273904  0.248908  1
+  Co  Co6  1  0.254059  0.123625  0.507090  1
+  Co  Co7  1  0.263843  0.620641  0.504256  1
+  Co  Co8  1  0.489660  0.749964  0.005558  1
+  Co  Co9  1  0.499901  0.253740  0.995268  1
+  Co  Co10  1  0.743110  0.380080  0.491956  1
+  Co  Co11  1  0.761778  0.878912  0.490848  1
+  Co  Co12  1  0.997004  0.997229  0.002030  1
+  Co  Co13  1  0.997828  0.509432  0.999115  1
+  O  O14  1  0.014479  0.379606  0.893883  1
+  O  O15  1  0.226427  0.331514  0.398183  1
+  O  O16  1  0.258627  0.912908  0.603998  1
+  O  O17  1  0.262027  0.825859  0.396645  1
+  O  O18  1  0.280063  0.409288  0.607573  1
+  O  O19  1  0.486347  0.861791  0.111534  1
+  O  O20  1  0.497673  0.361278  0.101921  1
+  O  O21  1  0.499335  0.642873  0.893747  1
+  O  O22  1  0.505505  0.142205  0.891419  1
+  O  O23  1  0.742564  0.168298  0.602364  1
+  O  O24  1  0.756537  0.657967  0.601795  1
+  O  O25  1  0.763146  0.091453  0.406389  1
+  O  O26  1  0.774899  0.585508  0.403830  1
+  O  O27  1  0.982989  0.630293  0.099099  1
+  O  O28  1  0.984248  0.135568  0.090264  1
+  O  O29  1  0.996173  0.873636  0.904294  1
